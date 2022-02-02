@@ -1,0 +1,122 @@
+- A -
+AC: Actual Cost
+ADM: Arrow Diagramming Method
+ADR: Alternative Dispute Resolution
+AOA: Activity-On-Arrow
+AON: Activity-On-Node
+
+- B -
+BAC: 
+BCA: 
+BMT: Benchmarking Test
+
+- C -
+CBA: Cost-Benefit Analysis
+CCB: 
+CDM: Conditional Diagramming Method
+CP: Critical Path
+CPAF: Cost Plus Award Fee
+CPI: Cost Performance Index
+CPIF: Cost Plus Incenteive Fee
+CPFF: Cost Plus Fixed Fee
+CPM: Critical Path Method
+CPPC: Cost Plus Percentage of Cost
+CR: Cost Reimbursable
+CR: Change Request
+CV: Cost Variation
+
+- D -
+DFD: Data Flow Diagram
+
+- E -
+EAC: 
+EEF: Enterpise Environment Factors
+EF: Early Finish Date
+ES: Early Start Date
+ETC: Estimate To Complete
+EVM: 
+
+- F -
+
+FP: Fixed Price 
+FP-EPA: Fixed Price with Economic Price Adjustment
+FPIF: Fixed Price Incentive Fee
+
+
+- G -
+GERT: Graphical Evaluation and Review Technique
+
+- H -
+- I -
+IFB: Invitation for Bid
+IRR: 
+ITTO: 
+
+- J -
+JAD: Joint Applicaton Development
+
+- K -
+KMS: Knowledge Management System
+
+- L -
+LF: Late Finish Date
+LISS: Linearly Independent Spanning Set
+LOI:
+LS: Late Start Date
+
+- M -
+MECE: Mutually Exclusive, Collectively Exhaustive
+MOU: Memorandum Of Understanding 
+
+- N -
+NPV: 
+
+- O - 
+OPA:  Organizational Process Assets
+OPM: Organizational Project Management
+OPM3: Organizational Project Management Maturity Model
+
+- P -
+PERT: Program Evaluation and Review Technique
+PDM: Precedence Diagramming Method
+PLC: Product Life Cycle
+PMB: Performance Measurement Baseline
+PMIS: 
+PMO: Project Mangement Office
+POC: Proof of Concept
+PSND: Project Schedule Network Diagramming
+PTA: Point of Total Assumption
+PP: 
+PQ: Pre-Qualificatoin
+
+- Q -
+QFD: Quality Function Development 
+
+- R -
+RFI: Request For Information
+RFQ: Request For Quotation
+RFP: Request For Proposal 
+ROI: 
+
+- S -
+SECI: Socializaton, Externalization, Combination, Inernaliztion
+SLA: 
+SOW:
+SPI: Schedule Performance Index
+STP:
+SV: Schedule Variance
+
+- T -
+T&M: Time & Material
+TF: Total Float
+
+- U -
+- V -
+- W -
+WBS: Work Breakdown Sheet
+
+- X -
+XP: eXtreme Programming
+
+- Y -
+- Z -
