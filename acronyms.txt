@@ -4,40 +4,61 @@ ADM: Arrow Diagramming Method
 ADR: Alternative Dispute Resolution
 AOA: Activity-On-Arrow
 AON: Activity-On-Node
+APB: Applied Business Project
 
-- B -
-BAC: 
-BCA: 
+- B - 
+BCA:
+BAC: Budget At Completion 
 BMT: Benchmarking Test
 
 - C -
 CBA: Cost-Benefit Analysis
-CCB: 
+CCB: Change Control Board
 CDM: Conditional Diagramming Method
+CL: Central Line
+CMMI: Capability Maturity Model Integration
 CP: Critical Path
-CPAF: Cost Plus Award Fee
+CPAF: Cost Plus Award Fee Contracts
 CPI: Cost Performance Index
-CPIF: Cost Plus Incenteive Fee
+CPIF: Cost Plus Incenteive Fee Contracts
 CPFF: Cost Plus Fixed Fee
 CPM: Critical Path Method
 CPPC: Cost Plus Percentage of Cost
+CQQ: Cost Of Quality 
 CR: Cost Reimbursable
 CR: Change Request
-CV: Cost Variation
+CSI: Customer Satisfaction Index
+CV: Cost Variation(Variance)
 
 - D -
+DfA: Design for Assembly 
+DfC: Design for Cost
 DFD: Data Flow Diagram
+DfL: Design for Logistics
+DfM: Design for Manufacturing
+DfM: Design for Maintainability
+DfS: Design for Serviceablilty
+DfR: Design for Reliablilty
+DFSS: Design for Six Sigma
+DfX: Design For Excellence
+DIDOV: 
+DMAIC: Define-Measure-Analyze-Improve-Control
+DMADV: 
 
 - E -
 EAC: 
-EEF: Enterpise Environment Factors
+EEF(s): Enterpise Environment Factors
 EF: Early Finish Date
+ERD: Entity Relationship Diagram
+ERG: Existence, Related, Growth
 ES: Early Start Date
 ETC: Estimate To Complete
-EVM: 
+EV: Earned Value
+EVM: Earned Value Management
 
 - F -
-
+FFP: Firm-Fixed-Price Contract
+FMEA: Failure Mode and Effect Anlaysis
 FP: Fixed Price 
 FP-EPA: Fixed Price with Economic Price Adjustment
 FPIF: Fixed Price Incentive Fee
@@ -47,71 +68,105 @@ FPIF: Fixed Price Incentive Fee
 GERT: Graphical Evaluation and Review Technique
 
 - H -
+
 - I -
 IFB: Invitation for Bid
-IRR: 
-ITTO: 
+IRR: Internal Rate of Return
+ITTO: Inputs, Tools, Techniques, Outputs
 
 - J -
 JAD: Joint Applicaton Development
+JIT: Just-In-Time
 
 - K -
 KMS: Knowledge Management System
 
 - L -
+LCL: Lower Control Limits
 LF: Late Finish Date
 LISS: Linearly Independent Spanning Set
-LOI:
+LL: Lesson Learned
+LOI: Letter Of Intent
+LRE: Level of Rist Exposure
 LS: Late Start Date
+LSL: Lower Specification Limits
 
 - M -
+MCDM: Multi-Criteria Decision Making
 MECE: Mutually Exclusive, Collectively Exhaustive
 MOU: Memorandum Of Understanding 
+MTBF: Mean Time Between Failure
+MTTF:  Mean Time To Failure 
+MTTR: Mean Time Between Repair
 
 - N -
-NPV: 
+NPV: Net Present Value
 
 - O - 
+OBS: Organization Breakdown Structure
 OPA:  Organizational Process Assets
 OPM: Organizational Project Management
 OPM3: Organizational Project Management Maturity Model
 
 - P -
-PERT: Program Evaluation and Review Technique
+PBS: Product Breakdown Structure
+PCDA: Plan-Do-Check-Act
 PDM: Precedence Diagramming Method
+PERT: Program Evaluation and Review Technique
+PI: Probability , Impact
 PLC: Product Life Cycle
 PMB: Performance Measurement Baseline
-PMIS: 
+PMIS: Project Management Information System
 PMO: Project Mangement Office
 POC: Proof of Concept
 PSND: Project Schedule Network Diagramming
 PTA: Point of Total Assumption
+PO: Purchase Order
 PP: 
+PPM: Parts Per Million
 PQ: Pre-Qualificatoin
+PV: Planned Value
 
 - Q -
+QA: Quality Assurance
 QFD: Quality Function Development 
 
 - R -
+R&R: Role and Responsibility
+RACI: Responsible, Accountable, Consult, Inform
+RAM: Responsibility Assignment Matrix
+RBS: Resource Breakdown Structure
+RCA: Root Cause Analysis
 RFI: Request For Information
 RFQ: Request For Quotation
 RFP: Request For Proposal 
-ROI: 
+ROI: Return On Investment
 
 - S -
 SECI: Socializaton, Externalization, Combination, Inernaliztion
-SLA: 
-SOW:
+SIPOC: Supplier, Input, Process, Output, Customer
+SLA: Service Level Agreements
+SOW: Statement Of Work
+SPC: Statistical Process Control
 SPI: Schedule Performance Index
 STP:
 SV: Schedule Variance
+SWOT: Strength, Weakness, Opportunity, Threats
 
 - T -
 T&M: Time & Material
 TF: Total Float
+TQC: Total Quality Control 
+TQM: Total Quality Management 
 
 - U -
+UCL: Upper Control Limits
+USL: Upper Specification Limits
+
 - V -
+VAC: Variance At Completion
+VIE: Valence, Instrumentaliry, Expectation
+
 - W -
 WBS: Work Breakdown Sheet
 
