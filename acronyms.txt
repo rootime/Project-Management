@@ -1,5 +1,6 @@
 - A -
 AC: Actual Cost
+AD: Accepted Deliverbles
 ADM: Arrow Diagramming Method
 ADR: Alternative Dispute Resolution
 AOA: Activity-On-Arrow
@@ -12,6 +13,7 @@ BAC: Budget At Completion
 BMT: Benchmarking Test
 
 - C -
+CAPEX: CAPital Expenditures
 CBA: Cost-Benefit Analysis
 CCB: Change Control Board
 CDM: Conditional Diagramming Method
@@ -20,7 +22,7 @@ CMMI: Capability Maturity Model Integration
 CP: Critical Path
 CPAF: Cost Plus Award Fee Contracts
 CPI: Cost Performance Index
-CPIF: Cost Plus Incenteive Fee Contracts
+CPIF: Cost Plus Incentive Fee Contracts
 CPFF: Cost Plus Fixed Fee
 CPM: Critical Path Method
 CPPC: Cost Plus Percentage of Cost
@@ -37,34 +39,40 @@ DFD: Data Flow Diagram
 DfL: Design for Logistics
 DfM: Design for Manufacturing
 DfM: Design for Maintainability
-DfS: Design for Serviceablilty
-DfR: Design for Reliablilty
+DfS: Design for Serviceability
+DfR: Design for Reliability
 DFSS: Design for Six Sigma
 DfX: Design For Excellence
-DIDOV: 
+DIDOV: Define-Identify-Design-Optimize-Verify
 DMAIC: Define-Measure-Analyze-Improve-Control
-DMADV: 
+DMADV: Define-Measure-Analyze-Design-Verfify
+DRI: Directly Responsible Individual
 
 - E -
 EAC: 
-EEF(s): Enterpise Environment Factors
+EEF(s): Enterprise Environment Factors
 EF: Early Finish Date
 ERD: Entity Relationship Diagram
+EQ: Emotional Intelligence
 ERG: Existence, Related, Growth
 ES: Early Start Date
+ESG: Environmenta), Social, Governance
 ETC: Estimate To Complete
 EV: Earned Value
 EVM: Earned Value Management
 
 - F -
+FDD: Feature-Driven Development
 FFP: Firm-Fixed-Price Contract
-FMEA: Failure Mode and Effect Anlaysis
+FM: Function Manager
+FMEA: Failure Mode and Effect Analysis
 FP: Fixed Price 
 FP-EPA: Fixed Price with Economic Price Adjustment
 FPIF: Fixed Price Incentive Fee
 
 
 - G -
+GD&T : Geometric Dimensioning & Tolerancing
 GERT: Graphical Evaluation and Review Technique
 
 - H -
@@ -75,7 +83,7 @@ IRR: Internal Rate of Return
 ITTO: Inputs, Tools, Techniques, Outputs
 
 - J -
-JAD: Joint Applicaton Development
+JAD: Joint Application Development
 JIT: Just-In-Time
 
 - K -
@@ -92,8 +100,11 @@ LS: Late Start Date
 LSL: Lower Specification Limits
 
 - M -
+MBTI: Myers-Briggs Type Indicator
+MBO: Management By Object
 MCDM: Multi-Criteria Decision Making
 MECE: Mutually Exclusive, Collectively Exhaustive
+MoM: Month over Month
 MOU: Memorandum Of Understanding 
 MTBF: Mean Time Between Failure
 MTTF:  Mean Time To Failure 
@@ -107,6 +118,7 @@ OBS: Organization Breakdown Structure
 OPA:  Organizational Process Assets
 OPM: Organizational Project Management
 OPM3: Organizational Project Management Maturity Model
+OTD: On Time Delivery
 
 - P -
 PBS: Product Breakdown Structure
@@ -116,20 +128,26 @@ PERT: Program Evaluation and Review Technique
 PI: Probability , Impact
 PLC: Product Life Cycle
 PMB: Performance Measurement Baseline
+PMI: Purchasing Manager Index
 PMIS: Project Management Information System
-PMO: Project Mangement Office
+PMO: Project Management Office
+PO: Purchase Order
+PO: Product Owner
 POC: Proof of Concept
 PSND: Project Schedule Network Diagramming
 PTA: Point of Total Assumption
 PO: Purchase Order
 PP: 
-PPM: Parts Per Million
+ppb: parts per billion
+PPm: parts per million
 PQ: Pre-Qualificatoin
 PV: Planned Value
 
 - Q -
 QA: Quality Assurance
 QFD: Quality Function Development 
+QoQ: Quarter on Quarter
+QTD: Quarter To Date
 
 - R -
 R&R: Role and Responsibility
@@ -141,11 +159,14 @@ RFI: Request For Information
 RFQ: Request For Quotation
 RFP: Request For Proposal 
 ROI: Return On Investment
+RSD: Relative Standard Deviation
 
 - S -
+SDLC: Software Development Life Cycle
 SECI: Socializaton, Externalization, Combination, Inernaliztion
 SIPOC: Supplier, Input, Process, Output, Customer
 SLA: Service Level Agreements
+SMART: Specific, Measurable, Attainable, Result oriented, Timely
 SOW: Statement Of Work
 SPC: Statistical Process Control
 SPI: Schedule Performance Index
@@ -155,6 +176,7 @@ SWOT: Strength, Weakness, Opportunity, Threats
 
 - T -
 T&M: Time & Material
+TBA: To Be Announced
 TF: Total Float
 TQC: Total Quality Control 
 TQM: Total Quality Management 
@@ -165,6 +187,7 @@ USL: Upper Specification Limits
 
 - V -
 VAC: Variance At Completion
+VD: Verified Deliverbles
 VIE: Valence, Instrumentaliry, Expectation
 
 - W -
@@ -174,4 +197,7 @@ WBS: Work Breakdown Sheet
 XP: eXtreme Programming
 
 - Y -
+YoY: Year on(over) Year
+YTD: Year To Date
+
 - Z -
