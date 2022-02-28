@@ -5,20 +5,28 @@ ADM: Arrow Diagramming Method
 ADR: Alternative Dispute Resolution
 AOA: Activity-On-Arrow
 AON: Activity-On-Node
+APAC: Asia Pacific Activities Conference
 APB: Applied Business Project
+ARR: Annual Recurring Revenue
 
-- B - 
+- B -
+BA: Business Analytics 
 BCA:
 BAC: Budget At Completion 
 BMT: Benchmarking Test
 
 - C -
+CAC: Customer Acquisition Cost
 CAPEX: CAPital Expenditures
 CBA: Cost-Benefit Analysis
 CCB: Change Control Board
+CDF: Cumulative Distribution Function
 CDM: Conditional Diagramming Method
+CJM: Customer Journey Map
 CL: Central Line
+CLTV: Customer LifeTime Value
 CMMI: Capability Maturity Model Integration
+CMS: Configuration Management System
 CP: Critical Path
 CPAF: Cost Plus Award Fee Contracts
 CPI: Cost Performance Index
@@ -29,10 +37,15 @@ CPPC: Cost Plus Percentage of Cost
 CQQ: Cost Of Quality 
 CR: Cost Reimbursable
 CR: Change Request
+CR: Churn Rate
+CRR: Customer Retention Rate
+CSAT: Customer Satisfaction Score
 CSI: Customer Satisfaction Index
 CV: Cost Variation(Variance)
 
 - D -
+DAU: Daily Active User
+DEA: Deterministic Economic Analysis
 DfA: Design for Assembly 
 DfC: Design for Cost
 DFD: Data Flow Diagram
@@ -49,9 +62,11 @@ DMADV: Define-Measure-Analyze-Design-Verfify
 DRI: Directly Responsible Individual
 
 - E -
-EAC: 
+EAC:
+EDA:  Exploratory Data Analysis
 EEF(s): Enterprise Environment Factors
 EF: Early Finish Date
+EMEA: Europe, Middle East Asia
 ERD: Entity Relationship Diagram
 EQ: Emotional Intelligence
 ERG: Existence, Related, Growth
@@ -94,23 +109,32 @@ LCL: Lower Control Limits
 LF: Late Finish Date
 LISS: Linearly Independent Spanning Set
 LL: Lesson Learned
+LLR: Lesson Learned Register
 LOI: Letter Of Intent
 LRE: Level of Rist Exposure
 LS: Late Start Date
 LSL: Lower Specification Limits
+LTV: Long term Value
 
 - M -
+MAU: Monthly Active User
 MBTI: Myers-Briggs Type Indicator
 MBO: Management By Object
 MCDM: Multi-Criteria Decision Making
+MCSA: Monte-Carlo Simulation Approach
 MECE: Mutually Exclusive, Collectively Exhaustive
+MOA: Memorandum Of Agreement
 MoM: Month over Month
 MOU: Memorandum Of Understanding 
+MRR: Monthly Recurring Revenue
 MTBF: Mean Time Between Failure
 MTTF:  Mean Time To Failure 
 MTTR: Mean Time Between Repair
 
 - N -
+NC: Number of new Customer acquired
+NDA: Non-Disclosure Agreement
+NPS: Net Promoter Score
 NPV: Net Present Value
 
 - O - 
@@ -123,6 +147,7 @@ OTD: On Time Delivery
 - P -
 PBS: Product Breakdown Structure
 PCDA: Plan-Do-Check-Act
+PDF: Probability Density Function
 PDM: Precedence Diagramming Method
 PERT: Program Evaluation and Review Technique
 PI: Probability , Impact
@@ -134,9 +159,12 @@ PMO: Project Management Office
 PO: Purchase Order
 PO: Product Owner
 POC: Proof of Concept
+PP: Payback Period Method
+PRA: Probabilistic Risk Analysis
 PSND: Project Schedule Network Diagramming
 PTA: Point of Total Assumption
 PO: Purchase Order
+POS: Point Of Sale
 PP: 
 ppb: parts per billion
 PPm: parts per million
@@ -158,6 +186,7 @@ RCA: Root Cause Analysis
 RFI: Request For Information
 RFQ: Request For Quotation
 RFP: Request For Proposal 
+RICE: Reach, Impact, Confidence and Effort
 ROI: Return On Investment
 RSD: Relative Standard Deviation
 
@@ -170,13 +199,15 @@ SMART: Specific, Measurable, Attainable, Result oriented, Timely
 SOW: Statement Of Work
 SPC: Statistical Process Control
 SPI: Schedule Performance Index
-STP:
+STEM: Science, Technology, Engineering, Mathematics(or Statistics)
+STP: Segmentation, Targeting, and Positioning
 SV: Schedule Variance
 SWOT: Strength, Weakness, Opportunity, Threats
 
 - T -
 T&M: Time & Material
 TBA: To Be Announced
+TE: Total Expense
 TF: Total Float
 TQC: Total Quality Control 
 TQM: Total Quality Management 
@@ -191,7 +222,9 @@ VD: Verified Deliverbles
 VIE: Valence, Instrumentaliry, Expectation
 
 - W -
+WAU: Weekly Active User
 WBS: Work Breakdown Sheet
+WIP: Work In Progress
 
 - X -
 XP: eXtreme Programming
