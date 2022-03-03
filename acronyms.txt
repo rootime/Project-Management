@@ -12,7 +12,8 @@ ARR: Annual Recurring Revenue
 - B -
 BA: Business Analytics 
 BCA:
-BAC: Budget At Completion 
+BAC: Budget At Completion
+BI: Business intelligence 
 BMT: Benchmarking Test
 
 - C -
@@ -20,8 +21,10 @@ CAC: Customer Acquisition Cost
 CAPEX: CAPital Expenditures
 CBA: Cost-Benefit Analysis
 CCB: Change Control Board
+CD: Continuous Deploy/Delivery
 CDF: Cumulative Distribution Function
 CDM: Conditional Diagramming Method
+CI: Continous Integration
 CJM: Customer Journey Map
 CL: Central Line
 CLTV: Customer LifeTime Value
@@ -38,13 +41,17 @@ CQQ: Cost Of Quality
 CR: Cost Reimbursable
 CR: Change Request
 CR: Churn Rate
+CRM: Customer Relationship Management
+CRN: Customer Reference Number
 CRR: Customer Retention Rate
 CSAT: Customer Satisfaction Score
 CSI: Customer Satisfaction Index
+CT: Continuous Testing
 CV: Cost Variation(Variance)
 
 - D -
 DAU: Daily Active User
+DDD: Domain Driven Development
 DEA: Deterministic Economic Analysis
 DfA: Design for Assembly 
 DfC: Design for Cost
@@ -70,6 +77,7 @@ EMEA: Europe, Middle East Asia
 ERD: Entity Relationship Diagram
 EQ: Emotional Intelligence
 ERG: Existence, Related, Growth
+ERP: Enterprise Resource Planning
 ES: Early Start Date
 ESG: Environmenta), Social, Governance
 ETC: Estimate To Complete
@@ -77,6 +85,7 @@ EV: Earned Value
 EVM: Earned Value Management
 
 - F -
+FaaS: Function as a Service
 FDD: Feature-Driven Development
 FFP: Firm-Fixed-Price Contract
 FM: Function Manager
@@ -89,10 +98,13 @@ FPIF: Fixed Price Incentive Fee
 - G -
 GD&T : Geometric Dimensioning & Tolerancing
 GERT: Graphical Evaluation and Review Technique
+GIL: Global Interpreter Lock
 
 - H -
 
 - I -
+IaaS: Infrastructure as a Service
+IDC: International Data Corporation
 IFB: Invitation for Bid
 IRR: Internal Rate of Return
 ITTO: Inputs, Tools, Techniques, Outputs
@@ -123,6 +135,7 @@ MBO: Management By Object
 MCDM: Multi-Criteria Decision Making
 MCSA: Monte-Carlo Simulation Approach
 MECE: Mutually Exclusive, Collectively Exhaustive
+MLOps: Machine Learning Operation
 MOA: Memorandum Of Agreement
 MoM: Month over Month
 MOU: Memorandum Of Understanding 
@@ -136,6 +149,7 @@ NC: Number of new Customer acquired
 NDA: Non-Disclosure Agreement
 NPS: Net Promoter Score
 NPV: Net Present Value
+NSFW: Not Safe For Work
 
 - O - 
 OBS: Organization Breakdown Structure
@@ -145,6 +159,7 @@ OPM3: Organizational Project Management Maturity Model
 OTD: On Time Delivery
 
 - P -
+PaaS: Platform as a Service
 PBS: Product Breakdown Structure
 PCDA: Plan-Do-Check-Act
 PDF: Probability Density Function
@@ -207,6 +222,7 @@ SWOT: Strength, Weakness, Opportunity, Threats
 - T -
 T&M: Time & Material
 TBA: To Be Announced
+TDD: Test Driven Development
 TE: Total Expense
 TF: Total Float
 TQC: Total Quality Control 
