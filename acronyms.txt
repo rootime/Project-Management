@@ -5,8 +5,13 @@ ADM: Arrow Diagramming Method
 ADR: Alternative Dispute Resolution
 AOA: Activity-On-Arrow
 AON: Activity-On-Node
+AOP: Annual Operation Plan
 APAC: Asia Pacific Activities Conference
 APB: Applied Business Project
+ARPDAU; Average Revenue Per Daily Active User
+ARPDEU; Average Revenue Per Daily Engaged User
+ARPPU; Average Revenue Per Paying User
+ARPU; Average Revenue Per User
 ARR: Annual Recurring Revenue
 
 - B -
@@ -15,6 +20,9 @@ BCA:
 BAC: Budget At Completion
 BI: Business intelligence 
 BMT: Benchmarking Test
+BR: Bounce Rate
+BU: Buying User
+BUR: Buying User Rate
 
 - C -
 CAC: Customer Acquisition Cost
@@ -46,6 +54,7 @@ CRN: Customer Reference Number
 CRR: Customer Retention Rate
 CSAT: Customer Satisfaction Score
 CSI: Customer Satisfaction Index
+CSM: Customer Service Manager or Customer Success Manager
 CT: Continuous Testing
 CV: Cost Variation(Variance)
 
@@ -101,6 +110,7 @@ GERT: Graphical Evaluation and Review Technique
 GIL: Global Interpreter Lock
 
 - H -
+HAU: Hourly Active User
 
 - I -
 IaaS: Infrastructure as a Service
@@ -115,6 +125,7 @@ JIT: Just-In-Time
 
 - K -
 KMS: Knowledge Management System
+KPI: Key Performance Indicator
 
 - L -
 LCL: Lower Control Limits
@@ -126,7 +137,9 @@ LOI: Letter Of Intent
 LRE: Level of Rist Exposure
 LS: Late Start Date
 LSL: Lower Specification Limits
-LTV: Long term Value
+LTS: Long Term Support
+LTV: Lifetime Value
+LTV: Long Term Value
 
 - M -
 MAU: Monthly Active User
@@ -134,6 +147,7 @@ MBTI: Myers-Briggs Type Indicator
 MBO: Management By Object
 MCDM: Multi-Criteria Decision Making
 MCSA: Monte-Carlo Simulation Approach
+MCU: Maximum Current User
 MECE: Mutually Exclusive, Collectively Exhaustive
 MLOps: Machine Learning Operation
 MOA: Memorandum Of Agreement
@@ -153,6 +167,7 @@ NSFW: Not Safe For Work
 
 - O - 
 OBS: Organization Breakdown Structure
+OCR: Optical Character Recognition
 OPA:  Organizational Process Assets
 OPM: Organizational Project Management
 OPM3: Organizational Project Management Maturity Model
@@ -184,12 +199,16 @@ PP:
 ppb: parts per billion
 PPm: parts per million
 PQ: Pre-Qualificatoin
+PRD: Product Requirement Document
+PU: Paying User
 PV: Planned Value
+PWA: Prgressive Web App
 
 - Q -
 QA: Quality Assurance
 QFD: Quality Function Development 
 QoQ: Quarter on Quarter
+QRD: Quality, Reliability, Durability
 QTD: Quarter To Date
 
 - R -
@@ -206,11 +225,15 @@ ROI: Return On Investment
 RSD: Relative Standard Deviation
 
 - S -
+SBA: Small Business Administration
 SDLC: Software Development Life Cycle
 SECI: Socializaton, Externalization, Combination, Inernaliztion
+SIP: Systematic Investment Plan
 SIPOC: Supplier, Input, Process, Output, Customer
 SLA: Service Level Agreements
 SMART: Specific, Measurable, Attainable, Result oriented, Timely
+SMB: Small and Medium sized Business
+SME: Small and Medium sized Enterprises
 SOW: Statement Of Work
 SPC: Statistical Process Control
 SPI: Schedule Performance Index
@@ -229,12 +252,16 @@ TQC: Total Quality Control
 TQM: Total Quality Management 
 
 - U -
+UA: User Acquisition
+UAC: User Acquisition Cost
 UCL: Upper Control Limits
+URC: User Retention Cost
 USL: Upper Specification Limits
+UV: Unique Visitor
 
 - V -
 VAC: Variance At Completion
-VD: Verified Deliverbles
+VD: Verified Deliverables
 VIE: Valence, Instrumentaliry, Expectation
 
 - W -
